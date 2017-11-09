@@ -1,0 +1,16 @@
+
+import java.util.Scanner;
+		public class Main {
+
+			public static void main(String[] args) {
+				// TODO Auto-generated method stub
+				System.out.println("Podaj kwotę w złotówkach");
+				Scanner sc = new Scanner(System.in);
+				int a = sc.nextInt();
+				double b = a / 4.29352083;
+				double c = a / 3.64305361;
+				System.out.println (a + "PLN = " + b +"EUR");
+				System.out.println(a +"PLN = " + b + "USD");
+				sc.close(); 
+			}
+		}

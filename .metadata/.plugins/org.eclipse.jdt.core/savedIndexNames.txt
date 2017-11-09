@@ -1,0 +1,26 @@
+INDEX VERSION 1.130+/home/bartekj/Pulpit/Programy/eclipse-oxygen/Programowanie Bartek/.metadata/.plugins/org.eclipse.jdt.core
+2671268412.index
+242179703.index
+351583724.index
+1162015955.index
+1694563588.index
+2112284446.index
+3598513422.index
+2940672620.index
+2153670030.index
+3091246090.index
+29327282.index
+562412224.index
+78178988.index
+1546435055.index
+3023643525.index
+3354070319.index
+1256867214.index
+3689979690.index
+1209783705.index
+3095481700.index
+1406645213.index
+4146840229.index
+2925492150.index
+632628527.index
+1689082527.index
